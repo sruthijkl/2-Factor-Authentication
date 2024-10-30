@@ -10,8 +10,8 @@ This project implements a simple Two-Factor Authentication (2FA) system using Ti
 
 4. User Interaction: The project demonstrates a basic user flow where the secret key is displayed, the token is generated, and the user can input the token for validation.
 
-Key Libraries Used
+Key Libraries Used:
 pyotp: This library handles the generation and verification of TOTP tokens, making the implementation straightforward and secure.
 
-Purpose
+Purpose:
 This project serves as a foundational example of implementing 2FA, which is crucial for enhancing security in applications by requiring a second form of authentication beyond just a password.
